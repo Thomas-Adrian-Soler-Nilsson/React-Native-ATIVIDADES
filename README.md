@@ -14,20 +14,21 @@ Para rodar o projeto localmente ou testar em um dispositivo:
    cd React-Native-ATIVIDADES
 
 2. Instale as dependências do projeto:
-
-npm install
-# ou
-yarn install
+   ```bash
+   npm install
+   # ou
+   yarn install
 
 3. Execute o aplicativo:
 
 Para iOS (apenas em macOS):
+      ```bash
 
-npx react-native run-ios
+      npx react-native run-ios
 
 Para Android (com emulador ou dispositivo conectado):
 
-npx react-native run-android
+      npx react-native run-android
 
 🛠️ Tecnologias Utilizadas:
 
